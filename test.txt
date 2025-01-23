@@ -1,3 +1,5 @@
 This is a test file.
 
 To teach me how to use git.
+
+Adding a new line.
